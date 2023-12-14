@@ -1,1 +1,2 @@
-# ikigai_End_Term_exam
+# Wheather-App
+Wheather App (Group 2 GOIT)
